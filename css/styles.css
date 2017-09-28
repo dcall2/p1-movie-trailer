@@ -1,5 +1,11 @@
 /* My Awesome Styling */
 
+h1 {
+    color: firebrick;
+    text-align: center;
+
+}
+
 body {
-    background: lightblue;
+    background: black;
 }
