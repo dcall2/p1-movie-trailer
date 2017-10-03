@@ -18,3 +18,7 @@
     +18, movie lovers, thrill seekers, futuristic believers, alien lovers, Previous alien series watchers.
 * How Should It Feel? * Lots of Adjectives: 
     Bloody, Gory, Death, Violence, horror, spooky, scary, crazy, curious, jumpy, eyes covering, hiding, nightmare, thrilling, stunned.
+
+## Visual Design
+
+Collage
