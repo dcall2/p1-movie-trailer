@@ -1,15 +1,11 @@
 /* My Awesome Styling */
-
+/* line 3, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
 h1 {
-    color: firebrick;
-    text-align: center;
+  color: firebrick;
+  text-align: center; }
 
-}
-
+/* line 9, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
 iframe {
-    text-align: center;
-}
+  display: block; }
 
-body {
-    
-}
+/*# sourceMappingURL=styles.css.map */

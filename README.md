@@ -5,11 +5,11 @@
 1. Title
 2. Trailer
 3. Release Date
-4. Brief Description
-5. Actors, Directors, etc.
-6. Imagery
-7. Rating
-8.
+4. Rating
+5. Brief Description
+6. Actors, Directors, etc.
+7. Imagery/Trailer screenshots
+8. Fan Section: Reviews / Quotes / Message board 
 9.
 
 ## Art Direction
