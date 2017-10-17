@@ -1136,4 +1136,17 @@ p {
   color: white;
   font-family: 'Ropa Sans', sans-serif; }
 
+/* line 40, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
+.page {
+  display: flex; }
+
+/* line 44, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
+header,
+section,
+main,
+article,
+aside,
+footer {
+  flex: 1; }
+
 /*# sourceMappingURL=styles.css.map */
