@@ -7,6 +7,8 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+@import url("https://fonts.googleapis.com/css?family=Orbitron");
+@import url("https://fonts.googleapis.com/css?family=Ropa+Sans");
 /* line 12, /Users/dcall2/Desktop/p1-movie-trailer/css/_normalize.css */
 html {
   line-height: 1.15;
@@ -1117,15 +1119,21 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
   display: block; }
 
 /* End: Error */
-/* line 9, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
-h1 {
-  color: firebrick;
-  text-align: center; }
-
-/* line 15, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 16, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
 iframe {
   display: block; }
 
 /* Lettering styling*/
+/* line 23, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
+h1 {
+  color: firebrick;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif; }
+
+/* line 31, /Users/dcall2/Desktop/p1-movie-trailer/css/styles.scss */
+p {
+  color: white;
+  font-family: 'Ropa Sans', sans-serif; }
 
 /*# sourceMappingURL=styles.css.map */
