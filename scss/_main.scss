@@ -1,17 +1,21 @@
-/* My Awesome Styling */
+// Main Stylesheet
 
-@import'normalize';
-@import'mediaelementplayer';
-@import url('https://fonts.googleapis.com/css?family=Orbitron');
-@import url('https://fonts.googleapis.com/css?family=Ropa+Sans');
+// Color Palette
+
+// Typography
+
+// Video Player Styling
+video {
+    max-width: 100%;
+    width: 100%;
+}
 
 
 
-//h1 {
-//    color: firebrick;
-//    text-align: center;
-//
-//}
+
+// MY STYLING ..................................................................................................
+
+
 
 iframe {
     display: block;
