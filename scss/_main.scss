@@ -53,3 +53,13 @@ aside,
 footer {
     flex: 1;
 }
+
+// Overriding default styling .................................................................................
+.mejs__time-total {
+    background: rgba(255, 0, 0, 0.3);
+}
+
+.mejs__time {
+    color: #fff;
+    font-size: 1em;
+}
