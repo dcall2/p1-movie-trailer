@@ -3,14 +3,17 @@
 ## Content Priotity Outline 
 
 1. Title
-2. Trailer
-3. Release Date
+2. Release Date
+3. Trailer
 4. Rating
 5. Brief Description
-6. Actors, Directors, etc.
-7. Imagery/Trailer screenshots
-8. Fan Section: Reviews / Quotes / Message board 
-9.
+6. Genres
+7. Run Time
+8. Director
+9. Cast
+10. Rating
+11. Imagery
+
 
 ## Art Direction
 

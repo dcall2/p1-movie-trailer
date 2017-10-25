@@ -6,6 +6,24 @@
        display: block;
     }
     
+//    .alien {
+//       position: relative;
+//    float: right;
+//    
+//    top: -51px;
+//    left: 51px;
+//    height: 70%;
+//    width: 133%;  
+//    }
+    
+    .copyright {
+        position: relative;
+        top: 10px;
+        bottom: -10px;
+    }
+    
+    
+    
   /* Diagnostic Styling. Delete When Done. */
   body:before {
        background: yellow;
@@ -28,6 +46,10 @@
     main article,
     main aside {
         width: 50%;
+    }
+    
+    footer {
+        margin-left: 50px;
     }
     
   /* Diagnostic Styling. Delete When Done. */
