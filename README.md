@@ -11,8 +11,8 @@
 7. Run Time
 8. Director
 9. Cast
-10. Rating
-11. Imagery
+10. Quote
+11. Rating
 
 
 ## Art Direction
