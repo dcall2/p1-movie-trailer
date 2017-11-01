@@ -1,0 +1,162 @@
+// Main Stylesheet
+
+body {
+    background: url("../img/darkness.png");
+}
+
+
+// Color Palette
+
+// Typography
+
+// Video Player Styling
+video {
+    max-width: 100%;
+    width: 100%;
+    
+}
+
+
+
+
+// MY STYLING ..................................................................................................
+
+
+
+iframe {
+    display: block;
+   
+}
+
+/* Lettering styling*/
+
+h1 {
+    color: white;
+    font-size: 3em;
+    text-align: left;
+    font-family: 'Orbitron', sans-serif;
+    padding: 10px;
+
+}
+
+h2 {
+    color: white;
+    letter-spacing: .5em;
+    padding: 10px;
+    
+}
+
+h3 {
+    color: white;
+}
+
+h4 {
+    color: darkgray;
+}
+
+
+p {
+    color: darkgray;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 3em;
+    
+}
+
+.copyright {
+    float: right;
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+.alien {
+    
+    float: right;
+    top: -51px;
+    left: 156px;
+    height: 76%;
+    width: 100%;
+    margin-bottom: 1.5em;
+}
+//    position: relative;
+//    float: right;
+//    
+//    top: -51px;
+//    left: 154px;
+//    height: 70%;
+//    width: 133%; 
+
+
+/* Mobile: 320px = 20em */
+//    @media screen and (min-width: 20em) {
+//        img {
+//            display: none;
+//        }
+//    }
+
+#rated {
+    width: 98px;
+    height: 40px;
+    margin-top: 4em;
+    float: left;
+}
+
+.quote {
+    
+    text-align: center;
+    opacity: .1;
+}
+
+.quote:hover {
+    
+    text-shadow: -2px 1px 2px rgba(255, 0, 0, 1);
+}
+//  animation: text-glow 1s ease-in-out infinite alternate; 
+//  color: greenyellow;
+//  font-family: 'Righteous', cursive;
+//  font-size: 3em;
+//  font-size: 3em;
+//  margin: 1em 0 1em 0; 
+//  text-align: center;
+//  text-transform: uppercase;
+//  text-shadow: 0 0 15px rgba(0,186,255,.6);
+//  width: 100%; 
+ 
+
+
+
+
+
+//layout
+
+.page {
+    display: flex;
+    top: 100px;
+}
+
+header,
+section,
+main,
+article,
+aside,
+footer {
+    flex: 1;
+}
+
+// Overriding default styling .................................................................................
+.mejs__time-total {
+    background: rgba(255, 0, 0, 0.3);
+}
+
+.mejs__time {
+    color: #fff;
+    font-size: 1em;
+}
+
+
+
+
+//p {
+//    color: indianred;
+//    font-family: 'Ropa Sans', sans-serif;
+//}
